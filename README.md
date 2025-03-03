@@ -1,4 +1,4 @@
-Telegram-Law-BotPT📜 Sobre o ProjetoO Telegram-Law-BotPT é um bot para Telegram que atua como consultor jurídico baseado na legislação portuguesa. Ele auxilia usuários a entenderem questões legais, fornece informações sobre leis e processos, e educa qualquer pessoa interessada no direito de Portugal.
+Telegram-Law-BotPT é um bot para Telegram que atua como consultor jurídico baseado na legislação portuguesa. Ele auxilia usuários a entenderem questões legais, fornece informações sobre leis e processos, e educa qualquer pessoa interessada no direito de Portugal.
 🚀 Funcionalidades📖 Fornece informações legais com base na legislação portuguesa.
 🤖 Responde perguntas jurídicas de forma automatizada e precisa.
 🏛 Educa usuários sobre direito com explicações simplificadas.
